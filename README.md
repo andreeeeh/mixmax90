@@ -18,6 +18,7 @@ When we began working on the app, it was still in its initial stage. Several key
 - [Vite.js](https://vitejs.dev/)
 - [Vitest](https://vitest.dev/)
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api)
+- [Node.js](https://nodejs.org/en)z
 - [Express.js](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en)
 - [MongoDB](https://www.mongodb.com/)
