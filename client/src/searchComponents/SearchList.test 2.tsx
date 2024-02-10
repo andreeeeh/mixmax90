@@ -2,7 +2,7 @@ import { describe, test, expect, vi } from 'vitest';
 import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import SearchList from './SearchList.tsx';
-import { res_searchList } from '../Tests/MochSearchList.ts';
+import { res_searchList } from '../Tests/MockSearchList.ts';
 
 
 
