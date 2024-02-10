@@ -4,7 +4,9 @@
   "description": "Codeworks solo project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev"
   },
   "author": "Joshua J.Carter",
   "license": "ISC"
