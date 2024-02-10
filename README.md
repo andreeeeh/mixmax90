@@ -14,15 +14,16 @@ When we began working on the app, it was still in its initial stage. Several key
 
 ## Technologies
 
-[React](https://react.dev/)
-[Vite.js](https://vitejs.dev/)
-[Vitest](https://vitest.dev/)
-[Express.js](https://expressjs.com/)
-[Node.js](https://nodejs.org/en)
-[MongoDB](https://www.mongodb.com/)
-[Mongoose](https://mongoosejs.com/)
-[TypeScript](https://www.typescriptlang.org/)
-[Jest.js](https://jestjs.io/)
+- [React](https://react.dev/)
+- [Vite.js](https://vitejs.dev/)
+- [Vitest](https://vitest.dev/)
+- [Spotify Web API](https://developer.spotify.com/documentation/web-api)
+- [Express.js](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Jest.js](https://jestjs.io/)
 
 ## Get Started
 1. Clone the repository
