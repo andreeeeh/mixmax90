@@ -1,5 +1,5 @@
 # MixMax90
-MixMax is a web application directly linked to Spotify, capable of generating diverse playlists based on your favorite artists.
+MixMax is a web application directly linked to Spotify, capable of generating 90 min playlists based on your favorite artists.
 
 This project was originally created by [Joshua Carter](https://github.com/joshuajcarter/mixmax90); [Deddar](https://github.com/vertig0matrix) and I collaborated through paired programming to refactor this project.
 
