@@ -1,7 +1,7 @@
 # MixMax90
 MixMax is a web application directly linked to Spotify, capable of generating 90 min playlists based on your favorite artists.
 
-This project was originally created by [Joshua Carter](https://github.com/joshuajcarter/mixmax90); [Deddar](https://github.com/vertig0matrix) and I collaborated through paired programming to refactor this project.
+This project was originally created by [Joshua Carter](https://github.com/joshuajcarter/mixmax90); [Deddar](https://github.com/vertig0matrix) and I collaborated to successfully refactor the project using TypeScript and implement testing protocols through collaborative paired programming efforts.
 
 ## The Challenge
 When we began working on the app, it was still in its initial stage. Several key functionalities were yet to be completed, and the code itself required additional structuring and organization.
